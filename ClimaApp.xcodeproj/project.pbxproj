@@ -15,7 +15,7 @@
 		1804AA3A2044463600AC130B /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1804AA392044463600AC130B /* WeatherViewController.swift */; };
 		1804AA3E2044480700AC130B /* WeatherDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1804AA3D2044480700AC130B /* WeatherDataModel.swift */; };
 		1804AA402044483000AC130B /* ChangeCityDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1804AA3F2044483000AC130B /* ChangeCityDelegate.swift */; };
-		1804AA4220444A8A00AC130B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1804AA4120444A8900AC130B /* Images.xcassets */; };
+		18FB177820444FE200BB97E3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18FB177720444FE200BB97E3 /* Images.xcassets */; };
 		2511D100F8EC124A9AB5B099 /* Pods_ClimaApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDDCAAE9769F1369F332A6BC /* Pods_ClimaApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,7 +30,7 @@
 		1804AA392044463600AC130B /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
 		1804AA3D2044480700AC130B /* WeatherDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDataModel.swift; sourceTree = "<group>"; };
 		1804AA3F2044483000AC130B /* ChangeCityDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeCityDelegate.swift; sourceTree = "<group>"; };
-		1804AA4120444A8900AC130B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "../../../../../Downloads/Clima-iOS11/Clima/Images.xcassets"; sourceTree = "<group>"; };
+		18FB177720444FE200BB97E3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A2F99328F5B5FE6B814E4E9F /* Pods-ClimaApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClimaApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ClimaApp/Pods-ClimaApp.debug.xcconfig"; sourceTree = "<group>"; };
 		B4E8C3898874BB8984F12585 /* Pods-ClimaApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClimaApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-ClimaApp/Pods-ClimaApp.release.xcconfig"; sourceTree = "<group>"; };
 		CDDCAAE9769F1369F332A6BC /* Pods_ClimaApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClimaApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -74,7 +74,7 @@
 				1804AA2420443B8E00AC130B /* Controller */,
 				1804AA2220443B7200AC130B /* Delegates */,
 				1804AA0B20443AB400AC130B /* Assets.xcassets */,
-				1804AA4120444A8900AC130B /* Images.xcassets */,
+				18FB177720444FE200BB97E3 /* Images.xcassets */,
 				1804AA0D20443AB400AC130B /* LaunchScreen.storyboard */,
 				1804AA1020443AB400AC130B /* Info.plist */,
 			);
@@ -195,7 +195,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1804AA38204445F800AC130B /* Main.storyboard in Resources */,
-				1804AA4220444A8A00AC130B /* Images.xcassets in Resources */,
+				18FB177820444FE200BB97E3 /* Images.xcassets in Resources */,
 				1804AA0F20443AB400AC130B /* LaunchScreen.storyboard in Resources */,
 				1804AA0C20443AB400AC130B /* Assets.xcassets in Resources */,
 			);
